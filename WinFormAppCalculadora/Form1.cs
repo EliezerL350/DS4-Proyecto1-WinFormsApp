@@ -145,6 +145,11 @@ namespace WinFormAppCalculadora
         //Boton de resta
         private void btnRestar_Click(object sender, EventArgs e)
         {
+            if (string.IsNullOrEmpty(tbxResultados.Text))
+            {
+                tbxResultados.Text = "-";
+                return;
+            }
             if (double.TryParse(tbxResultados.Text, out numeroUno))
             {
                 operador = "-";
