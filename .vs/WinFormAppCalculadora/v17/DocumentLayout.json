@@ -1,14 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eliezer\\source\\repos\\WinFormAppCalculadora\\",
+  "WorkspaceRootPath": "C:\\Users\\Eliezer\\Desktop\\DS-V\\DS4-Proyecto1-WinFormsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E456C08-A713-45E4-BB94-5A4A0BCC5B5F}|WinFormAppCalculadora\\WinFormAppCalculadora.csproj|c:\\users\\eliezer\\source\\repos\\winformappcalculadora\\winformappcalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E456C08-A713-45E4-BB94-5A4A0BCC5B5F}|WinFormAppCalculadora\\WinFormAppCalculadora.csproj|C:\\Users\\Eliezer\\Desktop\\DS-V\\DS4-Proyecto1-WinFormsApp\\winformappcalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E456C08-A713-45E4-BB94-5A4A0BCC5B5F}|WinFormAppCalculadora\\WinFormAppCalculadora.csproj|solutionrelative:winformappcalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E456C08-A713-45E4-BB94-5A4A0BCC5B5F}|WinFormAppCalculadora\\WinFormAppCalculadora.csproj|C:\\Users\\Eliezer\\source\\repos\\WinFormAppCalculadora\\winformappcalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8E456C08-A713-45E4-BB94-5A4A0BCC5B5F}|WinFormAppCalculadora\\WinFormAppCalculadora.csproj|c:\\users\\eliezer\\desktop\\ds-v\\ds4-proyecto1-winformsapp\\winformappcalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8E456C08-A713-45E4-BB94-5A4A0BCC5B5F}|WinFormAppCalculadora\\WinFormAppCalculadora.csproj|solutionrelative:winformappcalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533C2E6C-D87E-4BB0-A100-38B6F0F4880D}|API\\API.csproj|c:\\users\\eliezer\\desktop\\ds-v\\ds4-proyecto1-winformsapp\\api\\models\\historial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533C2E6C-D87E-4BB0-A100-38B6F0F4880D}|API\\API.csproj|solutionrelative:api\\models\\historial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533C2E6C-D87E-4BB0-A100-38B6F0F4880D}|API\\API.csproj|c:\\users\\eliezer\\desktop\\ds-v\\ds4-proyecto1-winformsapp\\api\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533C2E6C-D87E-4BB0-A100-38B6F0F4880D}|API\\API.csproj|solutionrelative:api\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533C2E6C-D87E-4BB0-A100-38B6F0F4880D}|API\\API.csproj|c:\\users\\eliezer\\desktop\\ds-v\\ds4-proyecto1-winformsapp\\api\\services\\historialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533C2E6C-D87E-4BB0-A100-38B6F0F4880D}|API\\API.csproj|solutionrelative:api\\services\\historialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E456C08-A713-45E4-BB94-5A4A0BCC5B5F}|WinFormAppCalculadora\\WinFormAppCalculadora.csproj|c:\\users\\eliezer\\desktop\\ds-v\\ds4-proyecto1-winformsapp\\winformappcalculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E456C08-A713-45E4-BB94-5A4A0BCC5B5F}|WinFormAppCalculadora\\WinFormAppCalculadora.csproj|solutionrelative:winformappcalculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E456C08-A713-45E4-BB94-5A4A0BCC5B5F}|WinFormAppCalculadora\\WinFormAppCalculadora.csproj|c:\\users\\eliezer\\desktop\\ds-v\\ds4-proyecto1-winformsapp\\winformappcalculadora\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8E456C08-A713-45E4-BB94-5A4A0BCC5B5F}|WinFormAppCalculadora\\WinFormAppCalculadora.csproj|solutionrelative:winformappcalculadora\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533C2E6C-D87E-4BB0-A100-38B6F0F4880D}|API\\API.csproj|c:\\users\\eliezer\\desktop\\ds-v\\ds4-proyecto1-winformsapp\\api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{533C2E6C-D87E-4BB0-A100-38B6F0F4880D}|API\\API.csproj|solutionrelative:api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +42,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 239,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HistorialController.cs",
+              "DocumentMoniker": "C:\\Users\\Eliezer\\Desktop\\DS-V\\DS4-Proyecto1-WinFormsApp\\API\\Controllers\\HistorialController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\HistorialController.cs",
+              "ToolTip": "C:\\Users\\Eliezer\\Desktop\\DS-V\\DS4-Proyecto1-WinFormsApp\\API\\Controllers\\HistorialController.cs",
+              "RelativeToolTip": "API\\Controllers\\HistorialController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwCoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T00:18:38.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HistorialService.cs",
+              "DocumentMoniker": "C:\\Users\\Eliezer\\Desktop\\DS-V\\DS4-Proyecto1-WinFormsApp\\API\\Services\\HistorialService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\HistorialService.cs",
+              "ToolTip": "C:\\Users\\Eliezer\\Desktop\\DS-V\\DS4-Proyecto1-WinFormsApp\\API\\Services\\HistorialService.cs",
+              "RelativeToolTip": "API\\Services\\HistorialService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T00:12:46.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eliezer\\Desktop\\DS-V\\DS4-Proyecto1-WinFormsApp\\WinFormAppCalculadora\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormAppCalculadora\\Program.cs",
+              "ToolTip": "C:\\Users\\Eliezer\\Desktop\\DS-V\\DS4-Proyecto1-WinFormsApp\\WinFormAppCalculadora\\Program.cs",
+              "RelativeToolTip": "WinFormAppCalculadora\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T00:03:30.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Eliezer\\Desktop\\DS-V\\DS4-Proyecto1-WinFormsApp\\WinFormAppCalculadora\\App.config",
+              "RelativeDocumentMoniker": "WinFormAppCalculadora\\App.config",
+              "ToolTip": "C:\\Users\\Eliezer\\Desktop\\DS-V\\DS4-Proyecto1-WinFormsApp\\WinFormAppCalculadora\\App.config",
+              "RelativeToolTip": "WinFormAppCalculadora\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-26T00:03:11.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Eliezer\\Desktop\\DS-V\\DS4-Proyecto1-WinFormsApp\\API\\Web.config",
+              "RelativeDocumentMoniker": "API\\Web.config",
+              "ToolTip": "C:\\Users\\Eliezer\\Desktop\\DS-V\\DS4-Proyecto1-WinFormsApp\\API\\Web.config",
+              "RelativeToolTip": "API\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-26T00:01:51.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Historial.cs",
+              "DocumentMoniker": "C:\\Users\\Eliezer\\Desktop\\DS-V\\DS4-Proyecto1-WinFormsApp\\API\\Models\\Historial.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Historial.cs",
+              "ToolTip": "C:\\Users\\Eliezer\\Desktop\\DS-V\\DS4-Proyecto1-WinFormsApp\\API\\Models\\Historial.cs",
+              "RelativeToolTip": "API\\Models\\Historial.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T23:59:50.379Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Eliezer\\source\\repos\\WinFormAppCalculadora\\WinFormAppCalculadora\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Eliezer\\Desktop\\DS-V\\DS4-Proyecto1-WinFormsApp\\WinFormAppCalculadora\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormAppCalculadora\\Form1.cs",
-              "ToolTip": "C:\\Users\\Eliezer\\source\\repos\\WinFormAppCalculadora\\WinFormAppCalculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\Eliezer\\Desktop\\DS-V\\DS4-Proyecto1-WinFormsApp\\WinFormAppCalculadora\\Form1.cs",
               "RelativeToolTip": "WinFormAppCalculadora\\Form1.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAUwJQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAALIAAAAAAAAAAAAIwEsAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T05:46:07.805Z",
               "EditorCaption": ""
@@ -37,9 +139,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Eliezer\\source\\repos\\WinFormAppCalculadora\\WinFormAppCalculadora\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Eliezer\\Desktop\\DS-V\\DS4-Proyecto1-WinFormsApp\\WinFormAppCalculadora\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormAppCalculadora\\Form1.cs",
-              "ToolTip": "C:\\Users\\Eliezer\\source\\repos\\WinFormAppCalculadora\\WinFormAppCalculadora\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Eliezer\\Desktop\\DS-V\\DS4-Proyecto1-WinFormsApp\\WinFormAppCalculadora\\Form1.cs [Design]",
               "RelativeToolTip": "WinFormAppCalculadora\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T05:46:03.299Z",

@@ -31,3 +31,14 @@ C:\Users\Eliezer\source\repos\WinFormAppCalculadora\WinFormAppCalculadora\obj\De
 C:\Users\Eliezer\source\repos\WinFormAppCalculadora\WinFormAppCalculadora\obj\Debug\WinFormAppCalculadora.csproj.CoreCompileInputs.cache
 C:\Users\Eliezer\source\repos\WinFormAppCalculadora\WinFormAppCalculadora\obj\Debug\WinFormAppCalculadora.exe
 C:\Users\Eliezer\source\repos\WinFormAppCalculadora\WinFormAppCalculadora\obj\Debug\WinFormAppCalculadora.pdb
+C:\Users\Eliezer\Desktop\DS-V\DS4-Proyecto1-WinFormsApp\WinFormAppCalculadora\bin\Debug\WinFormAppCalculadora.exe.config
+C:\Users\Eliezer\Desktop\DS-V\DS4-Proyecto1-WinFormsApp\WinFormAppCalculadora\bin\Debug\WinFormAppCalculadora.exe
+C:\Users\Eliezer\Desktop\DS-V\DS4-Proyecto1-WinFormsApp\WinFormAppCalculadora\bin\Debug\WinFormAppCalculadora.pdb
+C:\Users\Eliezer\Desktop\DS-V\DS4-Proyecto1-WinFormsApp\WinFormAppCalculadora\obj\Debug\WinFormAppCalculadora.csproj.AssemblyReference.cache
+C:\Users\Eliezer\Desktop\DS-V\DS4-Proyecto1-WinFormsApp\WinFormAppCalculadora\obj\Debug\WinFormAppCalculadora.exe.config
+C:\Users\Eliezer\Desktop\DS-V\DS4-Proyecto1-WinFormsApp\WinFormAppCalculadora\obj\Debug\WinFormAppCalculadora.Form1.resources
+C:\Users\Eliezer\Desktop\DS-V\DS4-Proyecto1-WinFormsApp\WinFormAppCalculadora\obj\Debug\WinFormAppCalculadora.Properties.Resources.resources
+C:\Users\Eliezer\Desktop\DS-V\DS4-Proyecto1-WinFormsApp\WinFormAppCalculadora\obj\Debug\WinFormAppCalculadora.csproj.GenerateResource.cache
+C:\Users\Eliezer\Desktop\DS-V\DS4-Proyecto1-WinFormsApp\WinFormAppCalculadora\obj\Debug\WinFormAppCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Eliezer\Desktop\DS-V\DS4-Proyecto1-WinFormsApp\WinFormAppCalculadora\obj\Debug\WinFormAppCalculadora.exe
+C:\Users\Eliezer\Desktop\DS-V\DS4-Proyecto1-WinFormsApp\WinFormAppCalculadora\obj\Debug\WinFormAppCalculadora.pdb
